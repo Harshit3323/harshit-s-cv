@@ -1,0 +1,164 @@
+body {
+    text-align: center;
+    margin: 0;
+  }
+  .container {
+    background-color: #B1B2FF;
+    position: relative;
+    height: 910px;
+  }
+  h2 {
+    position: relative;
+    margin: 0;
+    
+  }
+  .h2_1 {
+    left: 300px;
+    width: 60px;
+    top: 50px;
+    left: 900px;
+  }
+  h1 {
+    margin-top: 150px;
+    position: relative;
+    margin-top: 0px;
+    top: 200px;
+    font-family: "Dancing Script", cursive;
+  }
+  h2 {
+    font-family: 'Dancing Script', cursive;
+  }
+  h3 {
+    position: relative;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  .middle-container {
+    background-color: #acadd4;
+  }
+
+  .middle-container h3 {
+    width: 300px;
+  }
+  p {
+    position: relative;
+    width: 300px;
+    margin: 0;
+    font-weight: 800;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  hr {
+    width: 1000px;
+    color: #AAC4FF;
+    border: 0px;
+    border-top: 4px solid #AAC4FF;
+    height: 0;
+
+  }
+  .p_1 {
+    top: 70px;
+    left: 780px;
+  }
+  .proff {
+    position: relative;
+    top: 200px;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  .cloud_1, .cloud_2, .land {
+    position: absolute;
+  }
+  .cloud_1 {
+    right: 0px;
+    left: 200px;
+    top: 402px;
+    width: 200px;
+  }
+  .land {
+    width: 1262px;
+    top: 340px;
+    left: 0;
+  }
+  .cloud_2 {
+    left: 950px;
+    top: 402px;
+    width: 150px;
+  }
+  .Icons {
+    width: 100px;
+    position: absolute;
+  }
+  .profile {
+    height: 200px;
+  }
+  
+  .right {
+    top: 1100px;
+    right: 1100px;
+    left: 200px;
+  }
+  .anubis {
+    top: 970px;
+  }
+  
+  .left {
+    left: 900px;
+
+  }
+  .skill-row-1 {
+    margin-top: 40px;
+  }
+  .skills {
+    height: 400px;
+  }
+  .sk1 {
+    left: 100px;
+  }
+  .sk2 {
+    left: 775px;
+    width: 300px;
+    top: 40px;
+  }
+  .skimg {
+    top: 1350px;
+  }
+  .contact-me {
+    height: 200px;
+  }
+  .contact {
+    left: 100px;
+  }
+  .cont {
+    left: 880px;
+  }
+  .c-me {
+    left: 50px;
+    width: 400px;
+    top: 10px;
+  }
+  .btn {
+    margin-left: 600px;
+    color: #000;
+  }
+  .btn span{
+    color: #000;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 800;
+    text-decoration: underline;
+  }
+  .bottom-container {
+    height: 78px;
+    background-color: #000;
+    color: #fff;
+  }
+  .bottom-container p {
+    display: inline;;
+  }
+  .sub {
+    position: relative;
+    top: 34px;
+  }
+  a:link, a:visited, a:active {
+    color: #fff;
+    text-decoration: underline;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 800;
+  }
